@@ -2,4 +2,7 @@
 
 This is a test project to test Git operations.
 
-aaa bbbb ccc
+aaa bbbb ccc ddd
+
+
+new line
