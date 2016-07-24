@@ -1,3 +1,4 @@
 file added to one remote
 
 making change on the test branch
+making changes on squashed branch
