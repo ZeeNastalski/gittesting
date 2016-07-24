@@ -9,4 +9,9 @@ new line
 
 created a test branch
 
+<<<<<<< HEAD
 conflict2
+=======
+conflict1
+
+>>>>>>> branch1
