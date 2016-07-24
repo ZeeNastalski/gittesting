@@ -9,3 +9,5 @@ new line
 
 created a test branch
 
+conflict1
+
